@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Runtime.Remoting.Messaging;
 using System.Web;
 
 namespace WebApplication
@@ -30,7 +31,7 @@ namespace WebApplication
                 int b = int.Parse(request.QueryString["b"]);
                 response.Write($"<h1>{a * b}</h1>");
             }
-            catch(Exception excepption)
+            catch(Exception exception)
             {
                 context.Response.Redirect("/MultiplicationSixth.html");
             }

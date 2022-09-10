@@ -7,6 +7,30 @@
 <body>
 
     <h1><center>!ATTENTION!</center></h1>
-    <h1><center>!SLEEP!</center></h1>
+    <h1 id="demo"><center>!SLEEP!</center></h1>
 </body>
+<script>
+    window.onload = function () {
+        sleep(5000);
+        var xhr = new XMLHttpRequest();
+        xhr.open("GET", "../MultiplicationFIfth/?a=10&b=20");
+        console.log("!WAS!");
+        //xhr.onload = function () {
+        //    document.getElementById("demo").innerHTML = this.responseText;
+        //    console.log(this.responseText);
+        //};
+        xhr.onreadystatechange = function () {
+            if (this.readyState == 4 && this.status == 200) {
+                // Typical action to be performed when the document is ready:
+                document.getElementById("demo").innerHTML = xhr.responseText;
+            }
+        };
+        xhr.send();
+    }
+    function sleep(ms) {
+        ms += new Date().getTime();
+        while (new Date() < ms) { }
+    }
+</script>
+
 </html>

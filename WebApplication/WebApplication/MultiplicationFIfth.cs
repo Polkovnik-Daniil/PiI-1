@@ -33,7 +33,7 @@ namespace WebApplication
             catch (Exception exception)
             {
                 //возвращается на 
-                
+                context.Response.Redirect("/MultiplicationFifth.html");
             }
 
         }
