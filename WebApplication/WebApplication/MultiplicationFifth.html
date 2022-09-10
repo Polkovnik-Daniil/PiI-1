@@ -14,11 +14,6 @@
         sleep(5000);
         var xhr = new XMLHttpRequest();
         xhr.open("GET", "../MultiplicationFIfth/?a=10&b=20");
-        console.log("!WAS!");
-        //xhr.onload = function () {
-        //    document.getElementById("demo").innerHTML = this.responseText;
-        //    console.log(this.responseText);
-        //};
         xhr.onreadystatechange = function () {
             if (this.readyState == 4 && this.status == 200) {
                 // Typical action to be performed when the document is ready:
