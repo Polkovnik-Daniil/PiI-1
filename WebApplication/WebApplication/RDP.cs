@@ -26,8 +26,9 @@ namespace WebApplication
             httpResponse.Write("IISHANDLER");
             httpResponse.Write($"\n</br>{context.Request.UserHostAddress}");
             string ParamA = context.Request.QueryString["ParamA"],
-                   ParamB = context.Request.QueryString["ParamB"];
-            httpResponse.Write($"\n</br>PARAMA = {ParamA}</br>PARAMB = {ParamB}");
+                   ParamB = context.Request.QueryString["ParamB"],
+                   ParamC = context.Request.QueryString["ParamC"];
+            httpResponse.Write($"\n</br>PARAMA = {ParamA}</br>PARAMB = {ParamB}</br>");
 
         }
 

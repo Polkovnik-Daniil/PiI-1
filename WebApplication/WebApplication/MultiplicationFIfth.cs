@@ -30,7 +30,7 @@ namespace WebApplication
                 int b = int.Parse(request.QueryString["b"]);
                 response.Write($"<h1>{a * b}</h1>");
             }
-            catch (Exception exception)
+            catch
             {
                 //возвращается на 
                 context.Response.Redirect("/MultiplicationFifth.html");

@@ -7,19 +7,25 @@
     <body>
 
         <h1><center>!ATTENTION!</center></h1>
-        <h1 id="demo"><center>!SLEEP!</center></h1>
+        <h1><center>!SLEEP!</center></h1>
+        <center><h1 id="demo"></h1></center>
     </body>
     <script>
         window.onload = function () {
             sleep(5000);
             var xhr = new XMLHttpRequest();
-            xhr.open("GET", "../MultiplicationFIfth/?a=10&b=20");
+            var a = getRandomInt(20);
+            var b = getRandomInt(20);
+            xhr.open("GET", "../MultiplicationFIfth/?a=" + a + "&b=" + b);
             xhr.onreadystatechange = function () {
                 if (this.readyState == 4 && this.status == 200) {
                     document.getElementById("demo").innerHTML = xhr.responseText;
                 }
             };
             xhr.send();
+        }
+        function getRandomInt(max) {
+            return Math.floor(Math.random() * max);
         }
         function sleep(ms) {
             ms += new Date().getTime();

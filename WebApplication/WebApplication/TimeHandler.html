@@ -1,0 +1,43 @@
+﻿<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8" />
+        <title></title>
+    </head>
+    <body>
+        <form action="/TimeHandler/">
+            <input type="submit" name="Value" onclick="Start" value="Start" />
+            <input type="submit" name="Value" onclick="Stop" value="Stop" />
+            <center><h1 id="demo"></h1></center>
+        </form>
+    </body>
+    <script>
+        var IsOpen = false;
+        function Start() {
+            IsOpen = true;
+        }
+        function Stop() {
+            IsOpen = false;
+        }
+        function UpdateDate() {
+
+            console.log("WAS1");
+            if (IsOpen) {
+                console.log("WAS");
+                var xhr = new XMLHttpRequest();
+                xhr.open("GET", "../TimeHandler/?Value=Start");
+                xhr.onreadystatechange = function () {
+                    if (this.readyState == 4 && this.status == 200) {
+                        document.getElementById("demo").innerHTML = xhr.responseText;
+                    }
+                };
+                xhr.send();
+            }
+        }
+        function sleep(ms) {
+            ms += new Date().getTime();
+            while (new Date() < ms) { }
+        }
+        setInterval(UpdateDate, 2000);
+    </script>
+</html>

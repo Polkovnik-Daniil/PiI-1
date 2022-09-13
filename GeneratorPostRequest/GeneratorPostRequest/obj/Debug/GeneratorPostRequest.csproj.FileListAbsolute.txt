@@ -1,0 +1,46 @@
+D:\Labs\4 course\1sem\Programming in Internet\Lab1\GeneratorPostRequest\GeneratorPostRequest\bin\Debug\GeneratorPostRequest.exe.config
+D:\Labs\4 course\1sem\Programming in Internet\Lab1\GeneratorPostRequest\GeneratorPostRequest\bin\Debug\GeneratorPostRequest.exe
+D:\Labs\4 course\1sem\Programming in Internet\Lab1\GeneratorPostRequest\GeneratorPostRequest\bin\Debug\GeneratorPostRequest.pdb
+D:\Labs\4 course\1sem\Programming in Internet\Lab1\GeneratorPostRequest\GeneratorPostRequest\obj\Debug\GeneratorPostRequest.csproj.AssemblyReference.cache
+D:\Labs\4 course\1sem\Programming in Internet\Lab1\GeneratorPostRequest\GeneratorPostRequest\obj\Debug\MainWindow.g.cs
+D:\Labs\4 course\1sem\Programming in Internet\Lab1\GeneratorPostRequest\GeneratorPostRequest\obj\Debug\App.g.cs
+D:\Labs\4 course\1sem\Programming in Internet\Lab1\GeneratorPostRequest\GeneratorPostRequest\obj\Debug\GeneratorPostRequest_MarkupCompile.cache
+D:\Labs\4 course\1sem\Programming in Internet\Lab1\GeneratorPostRequest\GeneratorPostRequest\obj\Debug\GeneratorPostRequest_MarkupCompile.lref
+D:\Labs\4 course\1sem\Programming in Internet\Lab1\GeneratorPostRequest\GeneratorPostRequest\obj\Debug\MainWindow.baml
+D:\Labs\4 course\1sem\Programming in Internet\Lab1\GeneratorPostRequest\GeneratorPostRequest\obj\Debug\GeneratorPostRequest.g.resources
+D:\Labs\4 course\1sem\Programming in Internet\Lab1\GeneratorPostRequest\GeneratorPostRequest\obj\Debug\GeneratorPostRequest.Properties.Resources.resources
+D:\Labs\4 course\1sem\Programming in Internet\Lab1\GeneratorPostRequest\GeneratorPostRequest\obj\Debug\GeneratorPostRequest.csproj.GenerateResource.cache
+D:\Labs\4 course\1sem\Programming in Internet\Lab1\GeneratorPostRequest\GeneratorPostRequest\obj\Debug\GeneratorPostRequest.csproj.CoreCompileInputs.cache
+D:\Labs\4 course\1sem\Programming in Internet\Lab1\GeneratorPostRequest\GeneratorPostRequest\obj\Debug\GeneratorPostRequest.exe
+D:\Labs\4 course\1sem\Programming in Internet\Lab1\GeneratorPostRequest\GeneratorPostRequest\obj\Debug\GeneratorPostRequest.pdb
+D:\Labs\4 course\1sem\Programming in Internet\GeneratorPostRequest\GeneratorPostRequest\bin\Debug\GeneratorPostRequest.exe.config
+D:\Labs\4 course\1sem\Programming in Internet\GeneratorPostRequest\GeneratorPostRequest\bin\Debug\GeneratorPostRequest.exe
+D:\Labs\4 course\1sem\Programming in Internet\GeneratorPostRequest\GeneratorPostRequest\bin\Debug\GeneratorPostRequest.pdb
+D:\Labs\4 course\1sem\Programming in Internet\GeneratorPostRequest\GeneratorPostRequest\obj\Debug\GeneratorPostRequest.csproj.AssemblyReference.cache
+D:\Labs\4 course\1sem\Programming in Internet\GeneratorPostRequest\GeneratorPostRequest\obj\Debug\MainWindow.g.cs
+D:\Labs\4 course\1sem\Programming in Internet\GeneratorPostRequest\GeneratorPostRequest\obj\Debug\App.g.cs
+D:\Labs\4 course\1sem\Programming in Internet\GeneratorPostRequest\GeneratorPostRequest\obj\Debug\GeneratorPostRequest_MarkupCompile.cache
+D:\Labs\4 course\1sem\Programming in Internet\GeneratorPostRequest\GeneratorPostRequest\obj\Debug\GeneratorPostRequest_MarkupCompile.lref
+D:\Labs\4 course\1sem\Programming in Internet\GeneratorPostRequest\GeneratorPostRequest\obj\Debug\MainWindow.baml
+D:\Labs\4 course\1sem\Programming in Internet\GeneratorPostRequest\GeneratorPostRequest\obj\Debug\GeneratorPostRequest.g.resources
+D:\Labs\4 course\1sem\Programming in Internet\GeneratorPostRequest\GeneratorPostRequest\obj\Debug\GeneratorPostRequest.Properties.Resources.resources
+D:\Labs\4 course\1sem\Programming in Internet\GeneratorPostRequest\GeneratorPostRequest\obj\Debug\GeneratorPostRequest.csproj.GenerateResource.cache
+D:\Labs\4 course\1sem\Programming in Internet\GeneratorPostRequest\GeneratorPostRequest\obj\Debug\GeneratorPostRequest.csproj.CoreCompileInputs.cache
+D:\Labs\4 course\1sem\Programming in Internet\GeneratorPostRequest\GeneratorPostRequest\obj\Debug\GeneratorPostRequest.exe
+D:\Labs\4 course\1sem\Programming in Internet\GeneratorPostRequest\GeneratorPostRequest\obj\Debug\GeneratorPostRequest.pdb
+D:\Danik\7 semester\PiI\Laboratory works\1\GeneratorPostRequest\GeneratorPostRequest\bin\Debug\GeneratorPostRequest.exe.config
+D:\Danik\7 semester\PiI\Laboratory works\1\GeneratorPostRequest\GeneratorPostRequest\bin\Debug\GeneratorPostRequest.exe
+D:\Danik\7 semester\PiI\Laboratory works\1\GeneratorPostRequest\GeneratorPostRequest\bin\Debug\GeneratorPostRequest.pdb
+D:\Danik\7 semester\PiI\Laboratory works\1\GeneratorPostRequest\GeneratorPostRequest\obj\Debug\GeneratorPostRequest.csproj.AssemblyReference.cache
+D:\Danik\7 semester\PiI\Laboratory works\1\GeneratorPostRequest\GeneratorPostRequest\obj\Debug\GeneratorPostRequest.csproj.SuggestedBindingRedirects.cache
+D:\Danik\7 semester\PiI\Laboratory works\1\GeneratorPostRequest\GeneratorPostRequest\obj\Debug\MainWindow.g.cs
+D:\Danik\7 semester\PiI\Laboratory works\1\GeneratorPostRequest\GeneratorPostRequest\obj\Debug\App.g.cs
+D:\Danik\7 semester\PiI\Laboratory works\1\GeneratorPostRequest\GeneratorPostRequest\obj\Debug\GeneratorPostRequest_MarkupCompile.cache
+D:\Danik\7 semester\PiI\Laboratory works\1\GeneratorPostRequest\GeneratorPostRequest\obj\Debug\GeneratorPostRequest_MarkupCompile.lref
+D:\Danik\7 semester\PiI\Laboratory works\1\GeneratorPostRequest\GeneratorPostRequest\obj\Debug\MainWindow.baml
+D:\Danik\7 semester\PiI\Laboratory works\1\GeneratorPostRequest\GeneratorPostRequest\obj\Debug\GeneratorPostRequest.g.resources
+D:\Danik\7 semester\PiI\Laboratory works\1\GeneratorPostRequest\GeneratorPostRequest\obj\Debug\GeneratorPostRequest.Properties.Resources.resources
+D:\Danik\7 semester\PiI\Laboratory works\1\GeneratorPostRequest\GeneratorPostRequest\obj\Debug\GeneratorPostRequest.csproj.GenerateResource.cache
+D:\Danik\7 semester\PiI\Laboratory works\1\GeneratorPostRequest\GeneratorPostRequest\obj\Debug\GeneratorPostRequest.csproj.CoreCompileInputs.cache
+D:\Danik\7 semester\PiI\Laboratory works\1\GeneratorPostRequest\GeneratorPostRequest\obj\Debug\GeneratorPostRequest.exe
+D:\Danik\7 semester\PiI\Laboratory works\1\GeneratorPostRequest\GeneratorPostRequest\obj\Debug\GeneratorPostRequest.pdb
