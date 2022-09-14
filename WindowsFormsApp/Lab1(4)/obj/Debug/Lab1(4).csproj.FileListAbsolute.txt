@@ -1,0 +1,22 @@
+C:\Users\grish\OneDrive\Рабочий стол\Универ\3 курс\2 семестр\ПИС\Lab1(4)\Lab1(4)\bin\Debug\Lab1(4).exe.config
+C:\Users\grish\OneDrive\Рабочий стол\Универ\3 курс\2 семестр\ПИС\Lab1(4)\Lab1(4)\bin\Debug\Lab1(4).exe
+C:\Users\grish\OneDrive\Рабочий стол\Универ\3 курс\2 семестр\ПИС\Lab1(4)\Lab1(4)\bin\Debug\Lab1(4).pdb
+C:\Users\grish\OneDrive\Рабочий стол\Универ\3 курс\2 семестр\ПИС\Lab1(4)\Lab1(4)\obj\Debug\Lab1(4).csproj.AssemblyReference.cache
+C:\Users\grish\OneDrive\Рабочий стол\Универ\3 курс\2 семестр\ПИС\Lab1(4)\Lab1(4)\obj\Debug\Lab1(4).csproj.SuggestedBindingRedirects.cache
+C:\Users\grish\OneDrive\Рабочий стол\Универ\3 курс\2 семестр\ПИС\Lab1(4)\Lab1(4)\obj\Debug\Lab1_4_.Form1.resources
+C:\Users\grish\OneDrive\Рабочий стол\Универ\3 курс\2 семестр\ПИС\Lab1(4)\Lab1(4)\obj\Debug\Lab1_4_.Properties.Resources.resources
+C:\Users\grish\OneDrive\Рабочий стол\Универ\3 курс\2 семестр\ПИС\Lab1(4)\Lab1(4)\obj\Debug\Lab1(4).csproj.GenerateResource.cache
+C:\Users\grish\OneDrive\Рабочий стол\Универ\3 курс\2 семестр\ПИС\Lab1(4)\Lab1(4)\obj\Debug\Lab1(4).csproj.CoreCompileInputs.cache
+C:\Users\grish\OneDrive\Рабочий стол\Универ\3 курс\2 семестр\ПИС\Lab1(4)\Lab1(4)\obj\Debug\Lab1(4).exe
+C:\Users\grish\OneDrive\Рабочий стол\Универ\3 курс\2 семестр\ПИС\Lab1(4)\Lab1(4)\obj\Debug\Lab1(4).pdb
+D:\Danik\7 semester\PiI\Laboratory works\Lab1(4)\Lab1(4)\bin\Debug\Lab1(4).exe.config
+D:\Danik\7 semester\PiI\Laboratory works\Lab1(4)\Lab1(4)\bin\Debug\Lab1(4).exe
+D:\Danik\7 semester\PiI\Laboratory works\Lab1(4)\Lab1(4)\bin\Debug\Lab1(4).pdb
+D:\Danik\7 semester\PiI\Laboratory works\Lab1(4)\Lab1(4)\obj\Debug\Lab1(4).csproj.AssemblyReference.cache
+D:\Danik\7 semester\PiI\Laboratory works\Lab1(4)\Lab1(4)\obj\Debug\Lab1(4).csproj.SuggestedBindingRedirects.cache
+D:\Danik\7 semester\PiI\Laboratory works\Lab1(4)\Lab1(4)\obj\Debug\Lab1_4_.Form1.resources
+D:\Danik\7 semester\PiI\Laboratory works\Lab1(4)\Lab1(4)\obj\Debug\Lab1_4_.Properties.Resources.resources
+D:\Danik\7 semester\PiI\Laboratory works\Lab1(4)\Lab1(4)\obj\Debug\Lab1(4).csproj.GenerateResource.cache
+D:\Danik\7 semester\PiI\Laboratory works\Lab1(4)\Lab1(4)\obj\Debug\Lab1(4).csproj.CoreCompileInputs.cache
+D:\Danik\7 semester\PiI\Laboratory works\Lab1(4)\Lab1(4)\obj\Debug\Lab1(4).exe
+D:\Danik\7 semester\PiI\Laboratory works\Lab1(4)\Lab1(4)\obj\Debug\Lab1(4).pdb

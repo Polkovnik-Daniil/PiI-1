@@ -1,0 +1,11 @@
+D:\Danik\7 semester\PiI\Laboratory works\Lab1(4)\Lab1(4)\obj\Debug\WindowsFormsApp.csproj.AssemblyReference.cache
+D:\Danik\7 semester\PiI\Laboratory works\Lab1(4)\Lab1(4)\obj\Debug\WindowsFormsApp.csproj.SuggestedBindingRedirects.cache
+D:\Danik\7 semester\PiI\Laboratory works\Lab1(4)\Lab1(4)\obj\Debug\Lab1_4_.Form1.resources
+D:\Danik\7 semester\PiI\Laboratory works\Lab1(4)\Lab1(4)\obj\Debug\WindowsFormsApp.csproj.GenerateResource.cache
+D:\Danik\7 semester\PiI\Laboratory works\Lab1(4)\Lab1(4)\obj\Debug\WindowsFormsApp.csproj.CoreCompileInputs.cache
+D:\Danik\7 semester\PiI\Laboratory works\Lab1(4)\Lab1(4)\bin\Debug\WindowsFormsApp.exe.config
+D:\Danik\7 semester\PiI\Laboratory works\Lab1(4)\Lab1(4)\bin\Debug\WindowsFormsApp.exe
+D:\Danik\7 semester\PiI\Laboratory works\Lab1(4)\Lab1(4)\bin\Debug\WindowsFormsApp.pdb
+D:\Danik\7 semester\PiI\Laboratory works\Lab1(4)\Lab1(4)\obj\Debug\WindowsFormsApp_.Properties.Resources.resources
+D:\Danik\7 semester\PiI\Laboratory works\Lab1(4)\Lab1(4)\obj\Debug\WindowsFormsApp.exe
+D:\Danik\7 semester\PiI\Laboratory works\Lab1(4)\Lab1(4)\obj\Debug\WindowsFormsApp.pdb
