@@ -67,6 +67,8 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Content Include="js\modernizr-2.8.3.js" />
+    <Content Include="js\WebSocket.js" />
     <Content Include="MultiplicationFifth.html" />
     <Content Include="MultiplicationSixth.html" />
     <Content Include="Suma.html" />
